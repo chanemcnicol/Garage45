@@ -1,2 +1,2 @@
-# Garage45
+# Rep-club
 Customisable workout timer
